@@ -4,7 +4,7 @@
 
 ## Sumário
 
-### Hackathons Nacionais, on-line e Iternacionais
+### Hackathons Nacionais, on-line e Internacionais
 
 ### Hackathons presenciais por estado
 - [Acre](#Acre)
