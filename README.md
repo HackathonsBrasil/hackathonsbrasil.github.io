@@ -1,39 +1,40 @@
 # Hackathons Brasil
 
-*Uma lista curada contendo os maiores hackathons que acontecem pelo Brasil*
+_Uma lista curada contendo os maiores hackathons que acontecem pelo Brasil_
 
 ## Sumário
 
 ### Hackathons Nacionais, on-line e Internacionais
 
 ### Hackathons presenciais por estado
-- [Acre](#Acre)
-- [Alagoas](#Alagoas)
-- [Amapá](#Amapá)
-- [Amazonas](#Amazonas)
-- [Bahia](#Bahia)
-- [Ceará](#Ceará)
-- [Distrito Federal](#Distrito-Federal)
-- [Espírito Santo](#Espírito-Santo)
-- [Goiás](#Goiás)
-- [Maranhão](#Maranhão)
-- [Mato Grosso](#Mato-Grosso)
-- [Mato Grosso do Sul](#MatoGrosso-do-Sul)
-- [Minas Gerais](#Minas-Gerais)
-- [Pará](#Pará)
-- [Paraíba](#Paraíba)
-- [Paraná](#Paraná)
-- [Pernambuco](#Pernambuco)
-- [Piauí](#Piauí)
-- [Rio de Janeiro](#Rio-de-Janeiro)
-- [Rio Grande do Norte](#Rio-Grande-do-Norte)
-- [Rio Grande do Sul](#Rio-Grande-do-Sul)
-- [Rondônia](#Rondônia)
-- [Roraima](#Roraima)
-- [Santa Catarina](#Santa-Catarina)
-- [São Paulo](#São-Paulo)
-- [Sergipe](#Sergipe)
-- [Tocantins](#Tocantins)
+
+- [Acre](#acre)
+- [Alagoas](#alagoas)
+- [Amapá](#amapá)
+- [Amazonas](#amazonas)
+- [Bahia](#bahia)
+- [Ceará](#ceará)
+- [Distrito Federal](#distrito-federal)
+- [Espírito Santo](#espírito-santo)
+- [Goiás](#goiás)
+- [Maranhão](#maranhão)
+- [Mato Grosso](#mato-grosso)
+- [Mato Grosso do Sul](#matoGrosso-do-sul)
+- [Minas Gerais](#minas-gerais)
+- [Pará](#pará)
+- [Paraíba](#paraíba)
+- [Paraná](#paraná)
+- [Pernambuco](#pernambuco)
+- [Piauí](#piauí)
+- [Rio de Janeiro](#rio-de-janeiro)
+- [Rio Grande do Norte](#rio-grande-do-norte)
+- [Rio Grande do Sul](#rio-grande-do-sul)
+- [Rondônia](#rondônia)
+- [Roraima](#roraima)
+- [Santa Catarina](#santa-catarina)
+- [São Paulo](#são-paulo)
+- [Sergipe](#sergipe)
+- [Tocantins](#tocantins)
 
 ## Hackathons Nacionais
 
